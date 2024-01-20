@@ -5,7 +5,7 @@ import numpy as np
 
 
 
-df=pd.read_csv("/Users/emreoksuz/Desktop/booking.csv")  #adjust it based on your path
+df=pd.read_csv("booking.csv")  #adjust it based on your path
 pd.set_option('display.max_columns', None)
 
 
