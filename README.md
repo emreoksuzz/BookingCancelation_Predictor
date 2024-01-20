@@ -8,3 +8,5 @@ The benefits of employing such algorithms in the hotel industry are manifold. Fi
 Furthermore, the insights derived from the model empower hotels to implement targeted strategies for customer engagement and retention. By identifying specific features and behaviors associated with booking cancellations, hotels can tailor their marketing, pricing, and customer service initiatives to mitigate the risk of cancellations and foster guest loyalty.
 
 In essence, my algorithm serves as a powerful decision support tool for the hotel industry, enabling proactive measures that contribute to improved financial performance and enhanced guest satisfaction.
+
+ps:You can also use the algorithm from the page I created with the link :
