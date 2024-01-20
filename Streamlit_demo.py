@@ -14,7 +14,7 @@ st.set_page_config(
     page_icon="https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/LVOFB25TFJDCJII3XHWI5FEAJU.jpg",
     menu_items={
         "Get help": "mailto:emreoksuzbusiness@outlook.com",
-        "About": "For More Information\n" + "https://github.com/ataozarslan/DSNov22"
+       
     }
 )
 
