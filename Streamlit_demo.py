@@ -13,7 +13,7 @@ st.set_page_config(
     page_title="Hotel Cancellation Prediction Project",
     page_icon="https://cloudfront-eu-central-1.images.arcpublishing.com/thenational/LVOFB25TFJDCJII3XHWI5FEAJU.jpg",
     menu_items={
-        "Get help": "mailto:emreoksuzbusiness@outlook.com",
+        "Get help": "mailto:emreoksuzbusiness@outlook.com"
        
     }
 )
