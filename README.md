@@ -1,4 +1,4 @@
-# Project_2
+# Hotel Cancellation Prediction Project
 
 
 In my research endeavor, the primary goal is to employ advanced machine learning algorithms, particularly XGBoost, to discern patterns that indicate the likelihood of hotel booking cancellations. This algorithmic approach enables us to unravel complex relationships within the dataset, providing a deeper understanding of the factors influencing customer decisions. By predicting the probability of cancellations, hotels gain a valuable tool for proactive decision-making and resource allocation.
