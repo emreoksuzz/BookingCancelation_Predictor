@@ -9,4 +9,4 @@ Furthermore, the insights derived from the model empower hotels to implement tar
 
 In essence, my algorithm serves as a powerful decision support tool for the hotel industry, enabling proactive measures that contribute to improved financial performance and enhanced guest satisfaction.
 
-ps:You can also use the algorithm from the page I created with the link :
+ps:You can also use the algorithm from the page I created with the link :https://cancelationpredictor.streamlit.app/
