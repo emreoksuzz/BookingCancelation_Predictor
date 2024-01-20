@@ -59,7 +59,7 @@ room_type = st.sidebar.selectbox("Room Type", [1, 2, 3, 4, 5, 6, 7])
 meal_plan = st.sidebar.selectbox("Meal Plan", [1, 2])
 special_requests = st.sidebar.number_input("Special Request", min_value=0, max_value=5)
 
-new_model = load("/Users/emreoksuz/Downloads/xgboost_model.pkl1")
+new_model = load("xgboost_model.pkl2")
 # List of columns used for encoding in the training data
 encoded_columns = ['Season_Fall', 'Season_Spring', 'Season_Summer', 'Season_Winter',
                    'market segment type_Aviation', 'market segment type_Complementary',
